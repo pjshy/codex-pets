@@ -1,0 +1,10 @@
+{
+  "name": "codex-pets",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Codex custom pet packaging project",
+  "type": "module",
+  "scripts": {
+    "pet": "node scripts/pet.mjs"
+  }
+}
